@@ -81,7 +81,7 @@ echo.
 echo  Installing to: !MODS_DIR!
 echo.
 cd /d "!MODS_DIR!"
-set modAmount=153
+set modAmount=160
 set "fileName[1]=accessories-neoforge-1.1.0-beta.53-1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/gahvznopeykflb3kere1b/accessories-neoforge-1.1.0-beta.53-1.21.1.jar?rlkey=j1vol7dpzx9dvddg4kr83juv0&st=rn1s5v36&dl=1"
  
@@ -407,8 +407,8 @@ set "modURL[109]=https://www.dropbox.com/scl/fi/rcir1cdrizcamhcmz7xv7/Patchouli-
 set "fileName[110]=pet_cemetery-1.21.1-3.0.1.jar"
 set "modURL[110]=https://www.dropbox.com/scl/fi/zkvf9lcruw3po0z7xookw/pet_cemetery-1.21.1-3.0.1.jar?rlkey=052rbc503uh35kuj3xdgdn0d0&st=k1suxen0&dl=1"
  
-set "fileName[111]=PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar"
-set "modURL[111]=https://www.dropbox.com/scl/fi/i12nfl62k17ootoxosb0c/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar?rlkey=emu1n0d2e85dsyzsm7eofl1i8&st=cvk85abo&dl=1"
+set "fileName[111]=loot_journal-neoforge-1.21.1-6.2.1.jar"
+set "modURL[111]=https://www.dropbox.com/scl/fi/hmv48p1g5wj82ikh4x8a7/loot_journal-neoforge-1.21.1-6.2.1.jar?rlkey=8dvd0brkaovqjyiy93g30vjkf&st=vadem5x9&dl=1"
  
 set "fileName[112]=Placebo-1.21.1-9.9.1.jar"
 set "modURL[112]=https://www.dropbox.com/scl/fi/qjwzgipv7hz1kltlg1nsd/Placebo-1.21.1-9.9.1.jar?rlkey=534x6gsuafye8gvr0zh2hi7ui&st=gwmawwu0&dl=1"
@@ -521,20 +521,41 @@ set "modURL[147]=https://www.dropbox.com/scl/fi/zu6piqqz2hbplu1dx9h5v/waystoness
 set "fileName[148]=woodworks-1.21.1-4.0.2.jar"
 set "modURL[148]=https://www.dropbox.com/scl/fi/f4605o4o5x5ckwm7kqlbe/woodworks-1.21.1-4.0.2.jar?rlkey=5qqtfxgldvez61364rc7djufa&st=ijn2uulv&dl=1"
 
-set "fileName[149]=logbegone-neoforge-1.21.1-1.0.3"
+set "fileName[149]=logbegone-neoforge-1.21.1-1.0.3.jar"
 set "modURL[149]=https://www.dropbox.com/scl/fi/5f59n6f1kf3hko6j1auq5/logbegone-neoforge-1.21.1-1.0.3.jar?rlkey=3q45j8adiksey9wyuv45z18th&st=4zh5jlei&dl=1"
 
 set "fileName[150]=polymorph-neoforge-1.1.0+1.21.1.jar"
 set "modURL[150]=https://www.dropbox.com/scl/fi/81x05l9bad63s9u3a4fwo/polymorph-neoforge-1.1.0-1.21.1.jar?rlkey=i8pyyi14tt0vbsqpye81pvrq8&st=39ntlfz8&dl=1"
 
-set "fileName[151]=plasmovoice-neoforge-1.21.1-2.1.10"
+set "fileName[151]=plasmovoice-neoforge-1.21.1-2.1.10.jar"
 set "modURL[151]=https://www.dropbox.com/scl/fi/aprao7ekk1oi5fav69ju3/plasmovoice-neoforge-1.21.1-2.1.10.jar?rlkey=7ieosbzn21s80d0delkn9j6ux&st=hg7hk27a&dl=1"
 
-set "fileName[152]=chunksfadein-neoforge-3.0.23-1.21"
+set "fileName[152]=chunksfadein-neoforge-3.0.23-1.21.jar"
 set "modURL[152]=https://www.dropbox.com/scl/fi/i5ha0onj9rnjw1qfy734m/chunksfadein-neoforge-3.0.23-1.21.jar?rlkey=t3y4bs8uhus2k2k2r55u9e7eh&st=bzfdswzi&dl=1"
 
-set "fileName[153]=pv-addon-soundphysics-1.1.2"
+set "fileName[153]=pv-addon-soundphysics-1.1.2.jar"
 set "modURL[153]=https://www.dropbox.com/scl/fi/dulv2me1pu3ftopb6lnp6/pv-addon-soundphysics-1.1.2.jar?rlkey=w6sv4ysck3lr9nos68tirbswy&st=jhi1k2d9&dl=1"
+
+set "fileName[154]=explosiveenhancement-neoforge-1.21.1-1.1.2.jar"
+set "modURL[154]=https://www.dropbox.com/scl/fi/v80lw0reucswqeraiegmq/explosiveenhancement-neoforge-1.21.1-1.1.2.jar?rlkey=enbb03ff4keij0bvp38au92u4&st=hfauibbx&dl=1"
+
+set "fileName[155]=BetterPingDisplay-1.21.1-1.1.jar"
+set "modURL[155]=https://www.dropbox.com/scl/fi/pkfnp6clb2lrd3bw5zqs8/BetterPingDisplay-1.21.1-1.1.jar?rlkey=taltajfcdjirt4pjaueugjszi&st=wey2y2cr&dl=1"
+
+set "fileName[156]=underlay-1.0.2-neoforge-mc1.21.1.jar"
+set "modURL[156]=https://www.dropbox.com/scl/fi/q739m4qvv7epsnk5o0b36/underlay-1.0.2-neoforge-mc1.21.1.jar?rlkey=7ie1cxp6166o6t9dey2wxwzol&st=eet0ghze&dl=1"
+
+set "fileName[157]=configured-neoforge-1.21.1-2.6.3.jar"
+set "modURL[157]=https://www.dropbox.com/scl/fi/bp8ucmuafckyo8emqqjlv/configured-neoforge-1.21.1-2.6.3.jar?rlkey=n92ri4rxiachphwwhww0c1dvu&st=8vri75eq&dl=1"
+
+set "fileName[158]=chalk-1.6.12.jar"
+set "modURL[158]=https://www.dropbox.com/scl/fi/fcfmimycx7onlei0nmlle/chalk-1.6.12.jar?rlkey=e8zst8fr738nvk1slotkw4sdq&st=7w7unbc0&dl=1"
+
+set "fileName[159]=obscure_tooltips-neoforge-1.21.1-4.2.2.jar"
+set "modURL[159]=https://www.dropbox.com/scl/fi/bw2zacccmrmu8a7g34jsi/obscure_tooltips-neoforge-1.21.1-4.2.2.jar?rlkey=6ie073sx7bmoskaqhaqz6g4cv&st=hof9tzg5&dl=1"
+
+set "fileName[160]=fragmentum-neoforge-1.21.1-2.2.4.jar"
+set "modURL[160]=https://www.dropbox.com/scl/fi/ue9xzv4gt065b42tognzr/fragmentum-neoforge-1.21.1-2.2.4.jar?rlkey=2kib2emsd33a88qmt21ou0ec4&st=7nd2vbzn&dl=1"
 
 set DEL_COUNT=2
  

@@ -559,6 +559,51 @@ set "modURL[159]=https://www.dropbox.com/scl/fi/bw2zacccmrmu8a7g34jsi/obscure_to
 set "fileName[160]=fragmentum-neoforge-1.21.1-2.2.4.jar"
 set "modURL[160]=https://www.dropbox.com/scl/fi/ue9xzv4gt065b42tognzr/fragmentum-neoforge-1.21.1-2.2.4.jar?rlkey=2kib2emsd33a88qmt21ou0ec4&st=7nd2vbzn&dl=1"
 
+set "fileName[161]=expcounter-1.21.1-neoforge-2.5.jar"
+set "modURL[161]=https://www.dropbox.com/scl/fi/3rl7a7yfdor64vb8m2x7d/expcounter-1.21.1-neoforge-2.5.jar?rlkey=c8amkfi2x2gpdi6hdql7demca&st=051gaqly&dl=1"
+
+set "fileName[162]=fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar"
+set "modURL[162]=https://www.dropbox.com/scl/fi/q4rnh9fdrpyy5x1y94n5q/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar?rlkey=dydi6dayfjz4nbntn5j69sw08&st=npyfutgz&dl=1"
+
+set "fileName[163]=immersiveoverlays-1.7.2-1.21.1-neoforge.jar"
+set "modURL[163]=https://www.dropbox.com/scl/fi/3msgs5ilnl4jqys5px8mu/immersiveoverlays-1.7.2-1.21.1-neoforge.jar?rlkey=ue0i5o9kvncdghxq83au13dhp&st=tswqsbun&dl=1"
+
+set "fileName[164]=shuffle-neoforge-21.1.0.jar"
+set "modURL[164]=https://www.dropbox.com/scl/fi/hnkw71ldw8ar0dazfggie/shuffle-neoforge-21.1.0.jar?rlkey=uym2933sl44iigr7xzcyvy9pe&st=100gzjaq&dl=1"
+
+set "fileName[165]=connectiblechains-neoforge-1.21.1-2.2.1.jar"
+set "modURL[165]=https://www.dropbox.com/scl/fi/7iv7ou0mih2ukmi3u1ckv/connectiblechains-neoforge-1.21.1-2.2.1.jar?rlkey=n27u8bs1vtoorwk1eqbfmb9qp&st=x8r97tss&dl=1"
+
+set "fileName[166]=createmetalwork-2.0.0.jar"
+set "modURL[166]=https://www.dropbox.com/scl/fi/rxmc44l9wt11jtzdh9apf/createmetalwork-2.0.0.jar?rlkey=1l6obdgxeogtpag3ynkqq60c0&st=vosyoybs&dl=1"
+
+set "fileName[167]=deimos-1.21.1-neoforge-2.7.jar"
+set "modURL[167]=https://www.dropbox.com/scl/fi/6rcpe4qbilir6wff0dsyy/deimos-1.21.1-neoforge-2.7.jar?rlkey=fl2i1qgoh2octxs3sb948zex3&st=0jpx80fy&dl=1"
+
+set "fileName[168]=deployer-0.1.2.jar"
+set "modURL[168]=https://www.dropbox.com/scl/fi/z9zysv3zf3ikpsb7yp7qm/deployer-0.1.2.jar?rlkey=k5zywlrct7xj2tptz1wq5gtpl&st=5bda257q&dl=1"
+
+set "fileName[169]=extra_gauges-2.1.2.jar"
+set "modURL[169]=https://www.dropbox.com/scl/fi/570hp81ezb6mxkt1a8kxd/extra_gauges-2.1.2.jar?rlkey=f3qdj4l0uqzl9svp0mlz07ohw&st=rqlpct6o&dl=1"
+
+set "fileName[170]=grind-enchantments-4.0.1-neoforge-1.21.1.jar"
+set "modURL[170]=https://www.dropbox.com/scl/fi/zfx0t2nio241bdgxyez9k/grind-enchantments-4.0.1-neoforge-1.21.1.jar?rlkey=y7tl2vqk8vegumishsv5cxcze&st=1pk523dr&dl=1"
+
+set "fileName[171]=spear-backport-neoforge-1.8.0-1.21.1.jar"
+set "modURL[171]=https://www.dropbox.com/scl/fi/rovy7kz3dnzcwpe51t1me/spear-backport-neoforge-1.8.0-1.21.1.jar?rlkey=9wx5ro0zgp6nenoxchzvzp0lk&st=jk4u6mf0&dl=1"
+
+set "fileName[172]=vinurl-2.4.0-mc1.21.1.jar"
+set "modURL[172]=https://www.dropbox.com/scl/fi/0unv0il1cg92kf5p0kijf/vinurl-2.4.0-mc1.21.1.jar?rlkey=9za030b42lzjqllscl5a866wu&st=ukxajhxg&dl=1"
+
+set "fileName[173]=Waves-1.21.x-1.6.jar"
+set "modURL[173]=https://www.dropbox.com/scl/fi/cvl8kxb11kag9158g6mrs/Waves-1.21.x-1.6.jar?rlkey=cxfbstqdrmnatsvy9ouys8tia&st=ulma9bnp&dl=1"
+
+set "fileName[174]=ash_api-neoforge-21.1.1.jar"
+set "modURL[174]=https://www.dropbox.com/scl/fi/u1xi09i98p9thlx9mecce/ash_api-neoforge-21.1.1.jar?rlkey=ybm0l1ebihmafv13trxzavhri&st=5qjr9j5e&dl=1"
+
+set "fileName[175]=cmparallelpipes-neoforge-2.0.2.jar"
+set "modURL[175]=https://www.dropbox.com/scl/fi/s3yhcnu1ffw2zizhvteog/cmparallelpipes-neoforge-2.0.2.jar?rlkey=ir0vktuo1csd0dr761tx3s9gf&st=3cdy7bja&dl=0"
+
 set DEL_COUNT=2
  
 set "DEL_FILE[1]=sample1.jar"

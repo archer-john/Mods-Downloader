@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=175
+set modAmount=182
 set "fileName[1]=accessories-neoforge-1.1.0-beta.53-1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/gahvznopeykflb3kere1b/accessories-neoforge-1.1.0-beta.53-1.21.1.jar?rlkey=j1vol7dpzx9dvddg4kr83juv0&st=rn1s5v36&dl=1"
  
@@ -603,6 +603,27 @@ set "modURL[174]=https://www.dropbox.com/scl/fi/u1xi09i98p9thlx9mecce/ash_api-ne
 
 set "fileName[175]=cmparallelpipes-neoforge-2.0.2.jar"
 set "modURL[175]=https://www.dropbox.com/scl/fi/s3yhcnu1ffw2zizhvteog/cmparallelpipes-neoforge-2.0.2.jar?rlkey=ir0vktuo1csd0dr761tx3s9gf&st=3cdy7bja&dl=0"
+
+set "fileName[176]=sablejade-1.2.1.jar"
+set "modURL[176]=https://www.dropbox.com/scl/fi/d2rvj6d5hyfgh1bfmye6u/sablejade-1.2.1.jar?rlkey=6kyjv3zdd860fomnrkq9mpmdq&st=2amvz4ls&dl=1"
+
+set "fileName[177]=tw-decorative-food-1.21.1-1.1.8-neoforge.jar"
+set "modURL[177]=https://www.dropbox.com/scl/fi/h5hvojw3tbmze1eup69bk/tw-decorative-food-1.21.1-1.1.8-neoforge.jar?rlkey=f2bezhohovxwlfuhclwwnjf2q&st=5kfhyzxf&dl=1"
+
+set "fileName[178]=createtransmission-1.2.1-neoforge-create6-1.21.1.jar"
+set "modURL[178]=https://www.dropbox.com/scl/fi/1pjltkgoerhr42d97gcqs/createtransmission-1.2.1-neoforge-create6-1.21.1.jar?rlkey=4zwbmwiycoysqyte3s1h99ndn&st=knn9b9wn&dl=1"
+
+set "fileName[179]=wakes-1.21.1-NeoForge-1.3.6.jar"
+set "modURL[179]=https://www.dropbox.com/scl/fi/xifuzv9yvr0qp1fr4bjt6/wakes-1.21.1-NeoForge-1.3.6.jar?rlkey=ts7ivtu82kw815092g6bratr4&st=sqet3wp1&dl=1"
+
+set "fileName[180]=better-combat-x-cataclysm-spellbooks-compatibility-1.1.jar"
+set "modURL[180]=https://www.dropbox.com/scl/fi/t3o0d9xxb0iw8y7o00pe2/better-combat-x-cataclysm-spellbooks-compatibility-1.1.jar?rlkey=0473icw92sbt003puoa2mk5kj&st=1xuf5l3n&dl=1"
+
+set "fileName[181]=create_submarine-2.2.4.jar"
+set "modURL[181]=https://www.dropbox.com/scl/fi/ua57o2c23ix7g8myxdjhr/create_submarine-2.2.4.jar?rlkey=t1idxu25nhmkgce9f5svgdyek&st=gs4ulg8y&dl=1"
+
+set "fileName[182]=lithostitched-1.7.9-neoforge-21.1.jar"
+set "modURL[182]=https://www.dropbox.com/scl/fi/763m9hi55ewlamr6fenfe/lithostitched-1.7.9-neoforge-21.1.jar?rlkey=slf272m8p5v7iazi0g3rlt2kx&st=su9thxq0&dl=0"
 
 set DEL_COUNT=2
  

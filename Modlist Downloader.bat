@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=182
+set modAmount=183
 set "fileName[1]=accessories-neoforge-1.1.0-beta.53-1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/gahvznopeykflb3kere1b/accessories-neoforge-1.1.0-beta.53-1.21.1.jar?rlkey=j1vol7dpzx9dvddg4kr83juv0&st=rn1s5v36&dl=1"
  

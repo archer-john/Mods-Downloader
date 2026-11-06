@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=179
+set modAmount=182
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -620,6 +620,15 @@ set "modURL[178]=https://www.dropbox.com/scl/fi/2t4phk0mjbxg297t64ql4/studious-k
 
 set "fileName[179]=createlanterns-beta-21.29.jar"
 set "modURL[179]=https://www.dropbox.com/scl/fi/28rfzx48aj3edrp9wzz5m/createlanterns-beta-21.29.jar?rlkey=egm3030tirxte58pey494h08h&st=3tqr6b1x&dl=1"
+
+set "fileName[180]=createlanternsxnorthstar-redux-1.0.1.jar"
+set "modURL[180]=https://www.dropbox.com/scl/fi/j717ezv0tswblq351mgh0/createlanternsxnorthstar-redux-1.0.1.jar?rlkey=ul1laicgcgjkqym3yyt7us8rw&st=gyha6vv9&dl=1"
+
+set "fileName[181]=spectral_hub-v4.jar"
+set "modURL[181]=https://www.dropbox.com/scl/fi/49smxijuzy36n46qf2744/spectral_hub-v4.jar?rlkey=387fgf2ugzv3y279icj98sqm1&st=g781gh7j&dl=1"
+
+set "fileName[182]=cosmonautics-26.08.307.jar"
+set "modURL[182]=https://www.dropbox.com/scl/fi/dyr026r1dwtj4wj0thpd8/cosmonautics-26.08.307.jar?rlkey=bksy8sq5ueyh1xw3m7825bgpd&st=xz1hcms9&dl=1"
 
 set DEL_COUNT=2
  

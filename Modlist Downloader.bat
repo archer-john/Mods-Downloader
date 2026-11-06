@@ -616,10 +616,10 @@ set "fileName[177]=spatial-gui-1.10.1+1.21.1-neoforge.jar"
 set "modURL[177]=https://www.dropbox.com/scl/fi/196rl4hyfx5oxdj6u1q01/spatial-gui-1.10.1-1.21.1-neoforge.jar?rlkey=ekm7k6snyzzfbui4rpsu3yu3f&st=l3pc0pdj&dl=1"
 
 set "fileName[178]=studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar"
-set "modURL[178]=https://www.dropbox.com/scl/fi/2t4phk0mjbxg297t64ql4/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar?rlkey=5ir29qlv34lu3w9qcrii1vb42&st=x1hoseji&dl=1"
+set "modURL[178]=https://www.dropbox.com/scl/fi/2t4phk0mjbxg297t64ql4/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar?rlkey=5ir29qlv34lu3w9qcrii1vb42&st=qbztr905&dl=1"
 
-set "fileName[178]=createlanterns-beta-21.29.jar"
-set "modURL[178]=https://www.dropbox.com/scl/fi/28rfzx48aj3edrp9wzz5m/createlanterns-beta-21.29.jar?rlkey=egm3030tirxte58pey494h08h&st=3tqr6b1x&dl=1"
+set "fileName[179]=createlanterns-beta-21.29.jar"
+set "modURL[179]=https://www.dropbox.com/scl/fi/28rfzx48aj3edrp9wzz5m/createlanterns-beta-21.29.jar?rlkey=egm3030tirxte58pey494h08h&st=3tqr6b1x&dl=1"
 
 set DEL_COUNT=2
  

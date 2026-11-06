@@ -630,6 +630,9 @@ set "modURL[181]=https://www.dropbox.com/scl/fi/49smxijuzy36n46qf2744/spectral_h
 set "fileName[182]=cosmonautics-26.08.307.jar"
 set "modURL[182]=https://www.dropbox.com/scl/fi/dyr026r1dwtj4wj0thpd8/cosmonautics-26.08.307.jar?rlkey=bksy8sq5ueyh1xw3m7825bgpd&st=xz1hcms9&dl=1"
 
+set "fileName[183]=Northstar-0.6.6+1.21.1.jar"
+set "modURL[183]=https://www.dropbox.com/scl/fi/yb9kci39pk2zj5a5jva1p/Northstar-0.6.6-1.21.1.jar?rlkey=p4ea6ipny37udp9v86cd6jsxd&st=7ieevsmv&dl=1"
+
 set DEL_COUNT=2
  
 set "DEL_FILE[1]=sample1.jar"

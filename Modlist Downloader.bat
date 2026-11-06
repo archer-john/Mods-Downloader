@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=178
+set modAmount=179
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -617,6 +617,9 @@ set "modURL[177]=https://www.dropbox.com/scl/fi/196rl4hyfx5oxdj6u1q01/spatial-gu
 
 set "fileName[178]=studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar"
 set "modURL[178]=https://www.dropbox.com/scl/fi/2t4phk0mjbxg297t64ql4/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar?rlkey=5ir29qlv34lu3w9qcrii1vb42&st=x1hoseji&dl=1"
+
+set "fileName[178]=createlanterns-beta-21.29.jar"
+set "modURL[178]=https://www.dropbox.com/scl/fi/28rfzx48aj3edrp9wzz5m/createlanterns-beta-21.29.jar?rlkey=egm3030tirxte58pey494h08h&st=3tqr6b1x&dl=1"
 
 set DEL_COUNT=2
  

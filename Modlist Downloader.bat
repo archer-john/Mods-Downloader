@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=189
+set modAmount=190
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -650,6 +650,9 @@ set "modURL[188]=https://www.dropbox.com/scl/fi/eewrlav66wmwy197paqwp/CreativeCo
 
 set "fileName[189]=Quick-Skin-NeoForge-1.21.1-4.0.0.jar"
 set "modURL[189]=https://www.dropbox.com/scl/fi/yz38lua3df4lvxtwhqb2d/Quick-Skin-NeoForge-1.21.1-4.0.0.jar?rlkey=gmftas07m8v60vhk6vwq6tu13&st=1x1gz639&dl=1"
+
+set "fileName[190]=SimplyTooltips-neoforge-0.1.5.jar"
+set "modURL[190]=https://www.dropbox.com/scl/fi/xcogmv8ag0nf7t5lbcacj/SimplyTooltips-neoforge-0.1.5.jar?rlkey=7lt5x0bejr6maipsr2eularew&st=2vr2cwyf&dl=1"
 
 set DEL_COUNT=2
  

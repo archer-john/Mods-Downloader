@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=184
+set modAmount=185
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -635,6 +635,9 @@ set "modURL[183]=https://www.dropbox.com/scl/fi/m200h5afkbfq4ilgozghb/clanternsa
 
 set "fileName[184]=irons_artifice-1.21.1-1.1.1.jar"
 set "modURL[184]=https://www.dropbox.com/scl/fi/ufcopp5l36ucp98eiejr9/irons_artifice-1.21.1-1.1.1.jar?rlkey=fp5w5d5kgblsdr7powa4f1jq0&st=4vrcj9as&dl=1"
+
+set "fileName[185]=Northstar-0.6.6+1.21.1.jar"
+set "modURL[185]=https://www.dropbox.com/scl/fi/yb9kci39pk2zj5a5jva1p/Northstar-0.6.6-1.21.1.jar?rlkey=p4ea6ipny37udp9v86cd6jsxd&st=md6z7rz9&dl=1"
 
 set DEL_COUNT=2
  

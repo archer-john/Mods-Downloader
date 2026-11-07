@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=188
+set modAmount=189
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -558,8 +558,8 @@ set "modURL[157]=https://www.dropbox.com/scl/fi/31t9wtj2s9w6x2pfg5c8l/wwoo-neofo
 set "fileName[158]=yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
 set "modURL[158]=https://www.dropbox.com/scl/fi/kb8i85z6tauu7t70xhxn0/yet_another_config_lib_v3-3.8.2-1.21.1-neoforge.jar?rlkey=m802ogttcc8kt2cozszpvei8s&st=msgx33qz&dl=1"
 
-set "fileName[159]=better_weaponry-1.1.3-neoforge-1.21.1.jar"
-set "modURL[159]=https://www.dropbox.com/scl/fi/fxbmbpf5e71924w2s4rf1/better_weaponry-1.1.3-neoforge-1.21.1.jar?rlkey=g74pn6h1wvw9n7aif164gmshj&st=atv8kmnu&dl=1"
+set "fileName[159]=simplyswords-neoforge-1.70.2-1.21.1.jar"
+set "modURL[159]=https://www.dropbox.com/scl/fi/sbb6l46odvgj5hek47tdu/simplyswords-neoforge-1.70.2-1.21.1.jar?rlkey=dvoethixvmakltshcjp5sfvkz&st=hvwriei4&dl=1"
 
 set "fileName[160]=expcounter-1.21.1-neoforge-2.6.jar"
 set "modURL[160]=https://www.dropbox.com/scl/fi/ujk6nw7ylutp6fh5s23zp/expcounter-1.21.1-neoforge-2.6.jar?rlkey=w64aelzffuyy2jakof04dcicx&st=peyseqny&dl=1"
@@ -647,6 +647,9 @@ set "modURL[187]=https://www.dropbox.com/scl/fi/mdk8wrfu1nrejz3v6vocc/ItemPhysic
 
 set "fileName[188]=CreativeCore_NEOFORGE_v2.13.53_mc1.21.1.jar"
 set "modURL[188]=https://www.dropbox.com/scl/fi/eewrlav66wmwy197paqwp/CreativeCore_NEOFORGE_v2.13.53_mc1.21.1.jar?rlkey=ngni8n37n3v1fk6dqp4qt6kjw&st=sss1hy74&dl=1"
+
+set "fileName[189]=Quick-Skin-NeoForge-1.21.1-4.0.0.jar"
+set "modURL[189]=https://www.dropbox.com/scl/fi/yz38lua3df4lvxtwhqb2d/Quick-Skin-NeoForge-1.21.1-4.0.0.jar?rlkey=gmftas07m8v60vhk6vwq6tu13&st=1x1gz639&dl=1"
 
 set DEL_COUNT=2
  

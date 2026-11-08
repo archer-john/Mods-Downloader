@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=196
+set modAmount=197
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -671,6 +671,9 @@ set "modURL[195]=https://www.dropbox.com/scl/fi/ik0j247nn0xvsxy1mjx8u/krypton-0.
 
 set "fileName[196]=enhancedblockentities-0.10.2+1.21.jar"
 set "modURL[196]=https://www.dropbox.com/scl/fi/lmeyni48b59j89i24og2l/enhancedblockentities-0.10.2-1.21.jar?rlkey=n30hzlmjiycbdy55a34e13o8j&st=72nfdvlu&dl=1"
+
+set "fileName[197]=symbiote-unofficialPort.jar"
+set "modURL[197]https://www.dropbox.com/scl/fi/am8lpb3hfj60n68bxu8hq/symbiote-unofficialPort.jar?rlkey=vv107w7ub49c94cnaflsvoybm&st=olvs1svy&dl=1"
 
 
 set DEL_COUNT=2

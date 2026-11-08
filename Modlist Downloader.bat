@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=190
+set modAmount=196
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -586,7 +586,7 @@ set "fileName[167]=JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar"
 set "modURL[167]=https://www.dropbox.com/scl/fi/aytq6wuzc1a78zpjqkm4b/JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar?rlkey=jfpnds30qh93biu93zocmn6kk&st=fwiokj4n&dl=1"
 
 set "fileName[168]=justzoom_neoforge_3.1.0_MC_1.21.1.jar"
-set "modURL[168]=https://www.dropbox.com/scl/fi/7c5iucvqrxuodjxzl2m7d/justzoom_neoforge_3.1.0_MC_1.21.1.jar?rlkey=e4mytce7p68e9u6lfrjcgtqml&st=x0tpe9sg&dl=1"
+set "modURL[168]=https://www.dropbox.com/scl/fi/mvtqzn3rnv37fsbiim0pk/justzoom_neoforge_3.1.0_MC_1.21.1.jar?rlkey=dv5e1dd09f9mvvylo78t7ipwh&st=9l7cqd6h&dl=1"
 
 set "fileName[169]=lootjournal-neoforge-1.3.0.jar"
 set "modURL[169]=https://www.dropbox.com/scl/fi/8se9ycnsqobal9dxygigc/lootjournal-neoforge-1.3.0.jar?rlkey=ielcpfxwbapqcwcx9k7f53hx5&st=0ekqojo6&dl=1"
@@ -653,6 +653,25 @@ set "modURL[189]=https://www.dropbox.com/scl/fi/yz38lua3df4lvxtwhqb2d/Quick-Skin
 
 set "fileName[190]=SimplyTooltips-neoforge-0.1.5.jar"
 set "modURL[190]=https://www.dropbox.com/scl/fi/xcogmv8ag0nf7t5lbcacj/SimplyTooltips-neoforge-0.1.5.jar?rlkey=7lt5x0bejr6maipsr2eularew&st=2vr2cwyf&dl=1"
+
+set "fileName[191]=AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar"
+set "modURL[191]=https://www.dropbox.com/scl/fi/jh61i8wd05ora1bovqnol/AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar?rlkey=whjl09jskvuv9gai1bfi476lr&st=za7l3rto&dl=1"
+
+set "fileName[192]=particle_core-0.3.3+1.21+neoforge.jar"
+set "modURL[192]=https://www.dropbox.com/scl/fi/67ndi06p7cxxbf525jkzt/particle_core-0.3.3-1.21-neoforge.jar?rlkey=5446je7qqwqoo8xzyy6nqz7yx&st=erxyfnzt&dl=1"
+
+set "fileName[193]=offgrid-neoforge-1.0.5+1.21.1.jar"
+set "modURL[193]=https://www.dropbox.com/scl/fi/37e1hypv9e0es4shyfg1f/offgrid-neoforge-1.0.5-1.21.1.jar?rlkey=av4yuvqprlxeh1b76h2kx6xgl&st=is900l4w&dl=1"
+
+set "fileName[194]=PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar"
+set "modURL[194]=https://www.dropbox.com/scl/fi/oghqf5ccuj7j1agg0y09g/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar?rlkey=68rgb0wufisvc3iuiu3nzwa3t&st=320nnjoo&dl=1"
+
+set "fileName[195]=krypton-0.2.8.jar"
+set "modURL[195]=https://www.dropbox.com/scl/fi/ik0j247nn0xvsxy1mjx8u/krypton-0.2.8.jar?rlkey=hl6t8lcr1pk74o9uew2ssf1y4&st=264xfmn9&dl=1"
+
+set "fileName[196]=enhancedblockentities-0.10.2+1.21.jar"
+set "modURL[196]=https://www.dropbox.com/scl/fi/lmeyni48b59j89i24og2l/enhancedblockentities-0.10.2-1.21.jar?rlkey=n30hzlmjiycbdy55a34e13o8j&st=72nfdvlu&dl=1"
+
 
 set DEL_COUNT=2
  

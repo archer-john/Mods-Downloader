@@ -673,7 +673,7 @@ set "fileName[196]=enhancedblockentities-0.10.2+1.21.jar"
 set "modURL[196]=https://www.dropbox.com/scl/fi/lmeyni48b59j89i24og2l/enhancedblockentities-0.10.2-1.21.jar?rlkey=n30hzlmjiycbdy55a34e13o8j&st=72nfdvlu&dl=1"
 
 set "fileName[197]=symbiote-unofficialPort.jar"
-set "modURL[197]https://www.dropbox.com/scl/fi/am8lpb3hfj60n68bxu8hq/symbiote-unofficialPort.jar?rlkey=vv107w7ub49c94cnaflsvoybm&st=olvs1svy&dl=1"
+set "modURL[197]=https://www.dropbox.com/scl/fi/am8lpb3hfj60n68bxu8hq/symbiote-unofficialPort.jar?rlkey=vv107w7ub49c94cnaflsvoybm&st=upon5tkz&dl=1"
 
 
 set DEL_COUNT=2

@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=197
+set modAmount=205
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -695,6 +695,9 @@ set "modURL[203]=https://www.dropbox.com/scl/fi/8p3st0b72309nrv4kt0d7/DnDesires-
 
 set "fileName[204]=enchanted-vertical-slabs-2.3.2-neoforge-mc1.21.jar"
 set "modURL[204]=https://www.dropbox.com/scl/fi/imfh928li2iyl8it6t6pe/enchanted-vertical-slabs-2.3.2-neoforge-mc1.21.jar?rlkey=jp1zf4bugtgsj6f0w5zhva2ys&st=rzkcq3lq&dl=1"
+
+set "fileName[205]=kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar"
+set "modURL[205]=https://www.dropbox.com/scl/fi/jk7vxnpa632tytlvlw87u/kaleidoscope_compat-2.9.7-neoforge-mc1.21.1-Patch.2.jar?rlkey=xzbfijpphkj5cnyneof1w707q&st=4vnr1ua0&dl=1"
 
 set DEL_COUNT=2
  

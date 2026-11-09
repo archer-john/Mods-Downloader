@@ -673,8 +673,28 @@ set "fileName[196]=enhancedblockentities-0.10.2+1.21.jar"
 set "modURL[196]=https://www.dropbox.com/scl/fi/lmeyni48b59j89i24og2l/enhancedblockentities-0.10.2-1.21.jar?rlkey=n30hzlmjiycbdy55a34e13o8j&st=72nfdvlu&dl=1"
 
 set "fileName[197]=symbiote-unofficialPort.jar"
-set "modURL[197]=https://www.dropbox.com/scl/fi/am8lpb3hfj60n68bxu8hq/symbiote-unofficialPort.jar?rlkey=vv107w7ub49c94cnaflsvoybm&st=upon5tkz&dl=1"
+set "modURL[197]=https://www.dropbox.com/scl/fi/0i18lvyk0ppgkg327n0ea/symbiote-unofficialPort.jar?rlkey=iq0xc7wjfpre20ob1nfn4d7xf&st=cims6vho&dl=1"
 
+set "fileName[198]=kaleidoscope_nether-1.1.2-neoforge+mc1.21.1.jar"
+set "modURL[198]=https://www.dropbox.com/scl/fi/i6pzlax1op72dgg7mafrs/kaleidoscope_nether-1.1.2-neoforge-mc1.21.1.jar?rlkey=5lvm9dttj0pscotxsxmpu2kkm&st=n6ec8ggh&dl=1"
+
+set "fileName[199]=Kaleidoscope Texture Expansion-2.8.0-1.21.1.jar"
+set "modURL[199]=https://www.dropbox.com/scl/fi/chn8o1wh2aqj14h87pjfq/Kaleidoscope-Texture-Expansion-2.8.0-1.21.1.jar?rlkey=gcj67oucyjhhq8rn0nrom6p1s&st=e7g9ln6a&dl=1"
+
+set "fileName[200]=kaleidoscope_chinesefood-1.2.0-neoforge+1.21.1.jar"
+set "modURL[200]=https://www.dropbox.com/scl/fi/x12qt4rjovz4tkkyo3ou9/kaleidoscope_chinesefood-1.2.0-neoforge-1.21.1.jar?rlkey=ad3sxudunq4hudp0gj3d5is6s&st=g26ujrih&dl=1"
+
+set "fileName[201]=kaleidoscope_world_liquor-1.1.12-neoforge+1.21.1.jar"
+set "modURL[201]=https://www.dropbox.com/scl/fi/yzbgbwuvl8uc0vvwpxux5/kaleidoscope_world_liquor-1.1.12-neoforge-1.21.1.jar?rlkey=ypedp6p0k7pq6gesh4xpqvmhy&st=s52z9hp6&dl=1"
+
+set "fileName[202]=kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar"
+set "modURL[202]=https://www.dropbox.com/scl/fi/mtssi2sddnshy1gbclchj/kaleidoscopetavern-1.2.0-neoforge-mc1.21.1.jar?rlkey=3e1wpjpbun9znx1sraglc7iod&st=l71m4nia&dl=1"
+
+set "fileName[203]=DnDesires-1.21.1-2.3a-BETA.jar"
+set "modURL[203]=https://www.dropbox.com/scl/fi/8p3st0b72309nrv4kt0d7/DnDesires-1.21.1-2.3a-BETA.jar?rlkey=p6b3gz4iehcnllopd0y4kkz21&st=u9py6apx&dl=1"
+
+set "fileName[204]=enchanted-vertical-slabs-2.3.2-neoforge-mc1.21.jar"
+set "modURL[204]=https://www.dropbox.com/scl/fi/imfh928li2iyl8it6t6pe/enchanted-vertical-slabs-2.3.2-neoforge-mc1.21.jar?rlkey=jp1zf4bugtgsj6f0w5zhva2ys&st=rzkcq3lq&dl=1"
 
 set DEL_COUNT=2
  

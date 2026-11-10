@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=208
+set modAmount=211
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -707,6 +707,15 @@ set "modURL[207]=https://www.dropbox.com/scl/fi/r7um6fnnjwm8t7ax0z2zz/morecullin
 
 set "fileName[208]=another_furniture-neoforge-4.0.3.jar"
 set "modURL[208]=https://www.dropbox.com/scl/fi/dpo4neyr8kc7gywssysv6/another_furniture-neoforge-4.0.3.jar?rlkey=iw51gud4qrvul861kw24tsktx&st=i625f1iu&dl=1"
+
+set "fileName[209]=no-crop-trample-ALT1.jar"
+set "modURL[209]=https://www.dropbox.com/scl/fi/rxiuw0e7blos5o7nad79l/no-crop-trample-ALT1.jar?rlkey=xqsgmopnvq6z7fajc4uuwkmmi&st=fknmf5hl&dl=1"
+
+set "fileName[210]=rightclickharvest-neoforge-4.6.1+1.21.1.jar"
+set "modURL[210]=https://www.dropbox.com/scl/fi/zc717v2lbfwptmowvw96j/rightclickharvest-neoforge-4.6.1-1.21.1.jar?rlkey=ma9926p20d2tabn3jkbuym0oq&st=zssbutn8&dl=1"
+
+set "fileName[211]=jamlib-neoforge-1.3.6+1.21.1.jar"
+set "modURL[211]=https://www.dropbox.com/scl/fi/x8nw1lix0yvi8a5w2cv9f/jamlib-neoforge-1.3.6-1.21.1.jar?rlkey=b6puca6dgwyofzxlri9ngmx8w&st=pnj2tj95&dl=1"
 
 set DEL_COUNT=2
  

@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=211
+set modAmount=213
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -716,6 +716,12 @@ set "modURL[210]=https://www.dropbox.com/scl/fi/zc717v2lbfwptmowvw96j/rightclick
 
 set "fileName[211]=jamlib-neoforge-1.3.6+1.21.1.jar"
 set "modURL[211]=https://www.dropbox.com/scl/fi/x8nw1lix0yvi8a5w2cv9f/jamlib-neoforge-1.3.6-1.21.1.jar?rlkey=b6puca6dgwyofzxlri9ngmx8w&st=pnj2tj95&dl=1"
+
+set "fileName[212]=paladin-furniture-mod-1.5.0-neoforge-mc1.21.1.jar"
+set "modURL[212]=https://www.dropbox.com/scl/fi/ynnl4l8vpwpm089to669x/paladin-furniture-mod-1.5.0-neoforge-mc1.21.1.jar?rlkey=oug06xp2u8mi9hgwt7d5259gq&st=axyg73ab&dl=1"
+
+set "fileName[213]=letsdo-furniture-neoforge-1.1.10.jar"
+set "modURL[213]=https://www.dropbox.com/scl/fi/lvvu10v8hbgg6kwmxafho/letsdo-furniture-neoforge-1.1.10.jar?rlkey=jkwjyolpdph3l64os5kfm900g&st=7fchbo6r&dl=1"
 
 set DEL_COUNT=2
  

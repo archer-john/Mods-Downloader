@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=205
+set modAmount=208
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -673,7 +673,7 @@ set "fileName[196]=enhancedblockentities-0.10.2+1.21.jar"
 set "modURL[196]=https://www.dropbox.com/scl/fi/lmeyni48b59j89i24og2l/enhancedblockentities-0.10.2-1.21.jar?rlkey=n30hzlmjiycbdy55a34e13o8j&st=72nfdvlu&dl=1"
 
 set "fileName[197]=symbiote-unofficialPort.jar"
-set "modURL[197]=https://www.dropbox.com/scl/fi/0i18lvyk0ppgkg327n0ea/symbiote-unofficialPort.jar?rlkey=iq0xc7wjfpre20ob1nfn4d7xf&st=cims6vho&dl=1"
+set "modURL[197]=https://www.dropbox.com/scl/fi/ndg8ldeq8p3h0nt0p96hw/symbiote-unofficialPort.jar?rlkey=u0zhxn06chq41tbffi6r7p3hc&st=0rxzav1d&dl=1"
 
 set "fileName[198]=kaleidoscope_nether-1.1.2-neoforge+mc1.21.1.jar"
 set "modURL[198]=https://www.dropbox.com/scl/fi/i6pzlax1op72dgg7mafrs/kaleidoscope_nether-1.1.2-neoforge-mc1.21.1.jar?rlkey=5lvm9dttj0pscotxsxmpu2kkm&st=n6ec8ggh&dl=1"
@@ -698,6 +698,15 @@ set "modURL[204]=https://www.dropbox.com/scl/fi/imfh928li2iyl8it6t6pe/enchanted-
 
 set "fileName[205]=kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar"
 set "modURL[205]=https://www.dropbox.com/scl/fi/jk7vxnpa632tytlvlw87u/kaleidoscope_compat-2.9.7-neoforge-mc1.21.1-Patch.2.jar?rlkey=xzbfijpphkj5cnyneof1w707q&st=4vnr1ua0&dl=1"
+
+set "fileName[206]=continuity-3.0.0+1.21.neoforge.jar"
+set "modURL[206]=https://www.dropbox.com/scl/fi/c3lkch7szxdabvopskcv2/continuity-3.0.0-1.21.neoforge.jar?rlkey=a2uhmqmt1b68v9tlkoiclwig2&st=ucn0mijk&dl=1"
+
+set "fileName[207]=moreculling-neoforge-1.21.1-1.0.11.jar"
+set "modURL[207]=https://www.dropbox.com/scl/fi/r7um6fnnjwm8t7ax0z2zz/moreculling-neoforge-1.21.1-1.0.11.jar?rlkey=kank223w8rm9wfw8h7i11h08i&st=vpfm1uzn&dl=1"
+
+set "fileName[208]=another_furniture-neoforge-4.0.3.jar"
+set "modURL[208]=https://www.dropbox.com/scl/fi/dpo4neyr8kc7gywssysv6/another_furniture-neoforge-4.0.3.jar?rlkey=iw51gud4qrvul861kw24tsktx&st=i625f1iu&dl=1"
 
 set DEL_COUNT=2
  

@@ -94,7 +94,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=210
+set modAmount=209
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -721,11 +721,8 @@ set "fileName[208]=DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
 set "modURL[208]=https://www.dropbox.com/scl/fi/ktbjvv1vmp3om2nb0rqgg/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar?rlkey=ayd04gjx6zv5rq30mmx5n1ey9&st=690mej7w&dl=1"
 
 
-set "fileName[209]=framework-neoforge-1.21.1-0.13.11.jar"
-set "modURL[209]=https://www.dropbox.com/scl/fi/gzzx7hrclilet7yny5jef/framework-neoforge-1.21.1-0.13.11.jar?rlkey=4of3vf8aeysi4qmby2x3job65&st=vmblywfi&dl=1"
-
-set "fileName[210]=refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
-set "modURL[210]=https://www.dropbox.com/scl/fi/cvehnxxpyhh15ug8mif7j/refurbished_furniture-neoforge-1.21.1-1.0.22.jar?rlkey=95lfmhzy1gswhdefa40vom4c2&st=g9a8jbjp&dl=1"
+set "fileName[209]=mcw-furniture-3.4.1-mc1.21.1neoforge.jar"
+set "modURL[209]=https://www.dropbox.com/scl/fi/814tk31mbnir02ilqnh3o/mcw-furniture-3.4.1-mc1.21.1neoforge.jar?rlkey=vxtsvnf2vchdi8ejcswnb41zt&st=uzuen1i9&dl=1"
 
 set DEL_COUNT=2
  

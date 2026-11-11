@@ -94,7 +94,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=210
+set modAmount=211
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -726,6 +726,9 @@ set "modURL[209]=https://www.dropbox.com/scl/fi/a6pqcve0ktabcryou8zhf/icys-bette
 
 set "fileName[210]=modonomicon-1.21.1-neoforge-1.123.0.jar"
 set "modURL[210]=https://www.dropbox.com/scl/fi/d38fszzgfl4d3v0l302el/modonomicon-1.21.1-neoforge-1.123.0.jar?rlkey=naxkyrptng1jtqxgp26mttvyv&st=308ap1f2&dl=1"
+
+set "fileName[211]=bookofdragons-1.4.1-1.21.1.jar"
+set "modURL[211]=https://www.dropbox.com/scl/fi/1xkfbo4siu2uyvst7wxzs/bookofdragons-1.4.1-1.21.1.jar?rlkey=c49i5qrww9b2ldhfzzrtsdh3w&st=44oqlcrd&dl=1"
 
 set DEL_COUNT=2
  

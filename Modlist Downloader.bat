@@ -94,7 +94,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=211
+set modAmount=210
 set "fileName[1]=accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/sqkrzk1t5v4y8ofa3trv9/accessories-neoforge-1.1.0-beta.54-1.21.1.jar?rlkey=mnokh0yrahvcvf5ueyp6s9cr6&st=6xxa5clm&dl=1"
 
@@ -711,24 +711,21 @@ set "modURL[204]=https://www.dropbox.com/scl/fi/c3lkch7szxdabvopskcv2/continuity
 set "fileName[205]=no-crop-trample-ALT1.jar"
 set "modURL[205]=https://www.dropbox.com/scl/fi/rxiuw0e7blos5o7nad79l/no-crop-trample-ALT1.jar?rlkey=xqsgmopnvq6z7fajc4uuwkmmi&st=fknmf5hl&dl=1"
 
-set "fileName[206]=rightclickharvest-neoforge-4.6.1+1.21.1.jar"
-set "modURL[206]=https://www.dropbox.com/scl/fi/zc717v2lbfwptmowvw96j/rightclickharvest-neoforge-4.6.1-1.21.1.jar?rlkey=ma9926p20d2tabn3jkbuym0oq&st=zssbutn8&dl=1"
+set "fileName[206]=jamlib-neoforge-1.3.6+1.21.1.jar"
+set "modURL[206]=https://www.dropbox.com/scl/fi/x8nw1lix0yvi8a5w2cv9f/jamlib-neoforge-1.3.6-1.21.1.jar?rlkey=b6puca6dgwyofzxlri9ngmx8w&st=pnj2tj95&dl=1"
 
-set "fileName[207]=jamlib-neoforge-1.3.6+1.21.1.jar"
-set "modURL[207]=https://www.dropbox.com/scl/fi/x8nw1lix0yvi8a5w2cv9f/jamlib-neoforge-1.3.6-1.21.1.jar?rlkey=b6puca6dgwyofzxlri9ngmx8w&st=pnj2tj95&dl=1"
-
-set "fileName[208]=DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
-set "modURL[208]=https://www.dropbox.com/scl/fi/ktbjvv1vmp3om2nb0rqgg/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar?rlkey=ayd04gjx6zv5rq30mmx5n1ey9&st=690mej7w&dl=1"
+set "fileName[207]=DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+set "modURL[207]=https://www.dropbox.com/scl/fi/ktbjvv1vmp3om2nb0rqgg/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar?rlkey=ayd04gjx6zv5rq30mmx5n1ey9&st=690mej7w&dl=1"
 
 
-set "fileName[209]=mcw-furniture-3.4.1-mc1.21.1neoforge.jar"
-set "modURL[209]=https://www.dropbox.com/scl/fi/814tk31mbnir02ilqnh3o/mcw-furniture-3.4.1-mc1.21.1neoforge.jar?rlkey=vxtsvnf2vchdi8ejcswnb41zt&st=uzuen1i9&dl=1"
+set "fileName[208]=mcw-furniture-3.4.1-mc1.21.1neoforge.jar"
+set "modURL[208]=https://www.dropbox.com/scl/fi/814tk31mbnir02ilqnh3o/mcw-furniture-3.4.1-mc1.21.1neoforge.jar?rlkey=vxtsvnf2vchdi8ejcswnb41zt&st=uzuen1i9&dl=1"
 
-set "fileName[210]=icys-better-horses-2.1.8-neo-1.21.1.jar"
-set "modURL[210]=https://www.dropbox.com/scl/fi/a6pqcve0ktabcryou8zhf/icys-better-horses-2.1.8-neo-1.21.1.jar?rlkey=2urw1i0kaa6mw9887fvuna002&st=owl3p3mr&dl=1"
+set "fileName[209]=icys-better-horses-2.1.8-neo-1.21.1.jar"
+set "modURL[209]=https://www.dropbox.com/scl/fi/a6pqcve0ktabcryou8zhf/icys-better-horses-2.1.8-neo-1.21.1.jar?rlkey=2urw1i0kaa6mw9887fvuna002&st=owl3p3mr&dl=1"
 
-set "fileName[211]=modonomicon-1.21.1-neoforge-1.123.0.jar"
-set "modURL[211]=https://www.dropbox.com/scl/fi/d38fszzgfl4d3v0l302el/modonomicon-1.21.1-neoforge-1.123.0.jar?rlkey=naxkyrptng1jtqxgp26mttvyv&st=308ap1f2&dl=1"
+set "fileName[210]=modonomicon-1.21.1-neoforge-1.123.0.jar"
+set "modURL[210]=https://www.dropbox.com/scl/fi/d38fszzgfl4d3v0l302el/modonomicon-1.21.1-neoforge-1.123.0.jar?rlkey=naxkyrptng1jtqxgp26mttvyv&st=308ap1f2&dl=1"
 
 set DEL_COUNT=2
  
